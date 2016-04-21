@@ -15,4 +15,7 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="phone_number">Phone Number</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_activity_signin">Map</string>
 </resources>
